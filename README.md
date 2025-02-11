@@ -1,4 +1,3 @@
-```md
 # Snack or Booze
 
 ## Overview
@@ -42,4 +41,3 @@ npm run start-be   # JSON Server
 
 ---
 For questions, feel free to reach out!
-```
