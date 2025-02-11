@@ -1,0 +1,37 @@
+nav {
+  background-color: rgba(0, 0, 0, 0.9);
+  box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.2);
+  padding: 10px 20px;
+}
+
+.navbar-brand {
+  color: white !important;
+  font-size: 1.8rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.navbar-brand:hover {
+  transform: scale(1.01);
+  text-shadow: 0 0 5px rgba(255, 204, 0, 0.6);
+}
+
+.nav-item {
+  width: 90px;
+  text-align: center;
+}
+
+nav a {
+  color: #f0f2f5;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: none;
+  color: #f0f2f5;
+}
+
+nav a:not(.navbar-brand):hover {
+  font-weight: bold;
+}
+
